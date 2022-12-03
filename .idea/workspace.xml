@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bc51c58-ef8d-4d74-a78a-64c96511b85e" name="Changes" comment="Version_02." />
+    <list default="true" id="4bc51c58-ef8d-4d74-a78a-64c96511b85e" name="Changes" comment="Version_05.">
+      <change afterPath="$PROJECT_DIR$/src/FINAL_WINDOW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST_00_01/TEST1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Pranky1247" />
+        <option name="repository" value="GI_WINDOWS_00.01" />
+      </RepoCoordinatesHolder>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -107,7 +124,8 @@
       <workItem from="1670063037909" duration="243000" />
       <workItem from="1670063555166" duration="133000" />
       <workItem from="1670063753343" duration="5000" />
-      <workItem from="1670066004233" duration="9003000" />
+      <workItem from="1670066004233" duration="9277000" />
+      <workItem from="1670077844436" duration="741000" />
     </task>
     <task id="LOCAL-00001" summary="Version_01.">
       <created>1670063154273</created>
@@ -123,7 +141,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670077335049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version_03.">
+      <created>1670077418985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670077418985</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Version_04.">
+      <created>1670077452999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670077452999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Version_05.">
+      <created>1670077483001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670077483001</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +182,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version_01." />
     <MESSAGE value="Version_02." />
-    <option name="LAST_COMMIT_MESSAGE" value="Version_02." />
+    <MESSAGE value="Version_03." />
+    <MESSAGE value="Version_04." />
+    <MESSAGE value="Version_05." />
+    <option name="LAST_COMMIT_MESSAGE" value="Version_05." />
   </component>
 </project>
