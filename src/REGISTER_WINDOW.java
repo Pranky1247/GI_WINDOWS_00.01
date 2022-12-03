@@ -35,6 +35,7 @@ public class REGISTER_WINDOW extends JFrame implements ActionListener {
         };
         Background.setBackground(new Color(255,192,203));
         Background.setBounds(0, 0, 450, 400);
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.LP = new JLayeredPane();
         LP.setBounds(0, 0, 450, 400);
         LP.setOpaque(true);

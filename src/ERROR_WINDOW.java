@@ -24,6 +24,7 @@ public class ERROR_WINDOW extends JFrame implements ActionListener {
                 g.drawString("not be created. ", 85, 90);
             }
         };
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.Background.setBounds(0, 0, 400, 190);
         Background.setBackground(new Color(255, 255, 255));
         this.setSize(400, 190);
