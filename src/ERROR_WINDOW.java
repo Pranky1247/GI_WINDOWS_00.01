@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-//GOod morning.
+//GOod morning.0011
 public class ERROR_WINDOW extends JFrame implements ActionListener {
     // Uncomment the main method and run it to visualize the window. #PC_01.
     private final JLayeredPane LP;
